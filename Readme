@@ -1,0 +1,39 @@
+# Python Learning Repository 🐍
+
+My personal Python learning journey where I document and push what I learn every day.
+
+## 📚 What I'm Learning
+
+- **Variables and DataTypes/** - Python basics, variables, operators
+- **String and Conditional Statement/** - String manipulation and decision making
+
+## 🎯 Learning Objectives
+
+- Master Python fundamentals (variables, data types, operators)
+- Understand string manipulation and processing
+- Practice problem-solving with real-world examples
+- Build a solid foundation for advanced Python concepts
+
+## 🚀 Getting Started
+
+1. Clone or download this repository
+2. Navigate to any topic folder
+3. Run Python files: `python filename.py`
+4. Follow along with comments and explanations
+
+## 📖 How to Use
+
+- Each folder represents a learning module
+- Start with "1. Variables and DataTypes" for basics
+- Practice problems (Q1.py, Q2.py, etc.) test your understanding
+- Read comments in code for detailed explanations
+
+## 🤝 Contributing
+
+Feel free to:
+- Add more practice problems
+- Improve existing solutions
+- Add detailed comments and explanations
+- Suggest new learning modules
+
+**Happy Coding! 💻✨**
