@@ -4,8 +4,10 @@ My personal Python learning journey where I document and push what I learn every
 
 ## 📚 What I'm Learning
 
-- **Variables and DataTypes/** - Python basics, variables, operators
-- **String and Conditional Statement/** - String manipulation and decision making
+- **1. Variables and DataTypes/** - Python basics, variables, operators, type conversion, user input
+- **2. String and Conditional Statement/** - String manipulation, functions, and decision making
+- **3. Lists and Tuples/** - Ordered collections, indexing, slicing, and methods
+- **4. Dictionary and Sets/** - Key-value pairs, unique collections, and operations
 
 ## 🎯 Learning Objectives
 
